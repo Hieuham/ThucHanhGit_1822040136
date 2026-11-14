@@ -6,7 +6,7 @@ Thông tin sinh viên
 
 
 
-\- Họ và tên: Hiếu Nguyễn Trung
+\- Họ và tên: Nguyễn Trung Hiếu
 
 \- Mã số sinh viên: 1822040136
 
